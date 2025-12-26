@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,test tv HD
+http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 #EXTINF:-1,Shar tv HD
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 #EXTINF:-1,Ravand tv HD
