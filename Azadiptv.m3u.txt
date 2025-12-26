@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1,Shar tv HD
+http://avrstream.com:1935/live/SHARTV/playlist.m3u8
+#EXTINF:-1,Ravand tv HD
+http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
+#EXTINF:-1,Zavar tv HD
+http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
+#EXTINF:-1,istar Quran tv HD
+https://live20.bozztv.com/giatv/giatv-istar4ktv/istar4ktv/chunks.m3u8
+#EXTINF:-1,Amojgary tv HD
+https://app-live.org/live/3268334b/index.m3u8
+#EXTINF:-1,Next tv HD
+http://streamcdn.us:8080/live/98778676754/88526902544/115346.ts
+#EXTINF:-1,Euro Kurd tv HD
+http://eurokurd.mymediapc.net:40/live/Eurokurd/playlist.m3u8
+#EXTINF:-1,Khak tv HD
+http://bblserver.ddns.net:1935/stream/khakhd/chunklist_w388974096.m3u8
+#EXTINF:-1,4Kurd Music tv HD
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Bnar tv HD
+http://baskhd.ddns.net:40/live/bnar4k/chunklist_w617383350.m3u8
+#EXTINF:-1,Bnar Movies tv HD
+http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
+#EXTINF:-1,Batifa tv HD
+https://6476e46b58f91.streamlock.net/liveTrans/batifa/chunklist_w632227207.m3u8
+#EXTINF:-1,Wellat tv HD
+http://stream.welattv.net:1935/welat/tv/playlist.m3u8
+#EXTINF:-1,Mix_kurdi tv HD
+http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1,Mihrab tv HD
+http://baskhd.ddns.net:40/live/MihrabTV/media_w1839533553_1911.m3u8
+#EXTINF:-1,C2 Documents tv HD
+http://baskhd.ddns.net:40/live/c2doc/index.m3u8
+#EXTINF:-1,ZÊRÎN Comedy tv HD
+http://baskhd.ddns.net:40/live/zerincomedy/index.m3u8
+#EXTINF:-1,Soz Movies tv HD
+https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
+#EXTINF:-1,Soz Quran 1 tv HD
+http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
+#EXTINF:-1,Soz Quran 2 tv HD
+https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
+#EXTINF:-1,ZÊRÎN Kids tv HD
+http://baskhd.ddns.net:40/live/zerinkids/index.m3u8
+#EXTINF:-1,Walla tv HD
+https://live20.bozztv.com/giatv/giatv-halabja88walla/halabja88walla/chunks.m3u8
+#EXTINF:-1,Soran tv HD
+http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
+#EXTINF:-1,Love Nature tv HD
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1,MBC Geographic tv HD
+http://cf.4kmo.me:80/live/fa27bba07a1e/1adf66dbb1/363718.m3u8
+#EXTINF:-1,Bein Sports 1 tv HD
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1,Bein Sport 2 tv HD
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1,Bein Sport 3 tv HD
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1,Bein Sport 4 tv HD
+http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:-1,Bein Sport 5 tv HD
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:-1,Bein Sport 6 tv HD
+http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:-1,Bein Sport 7 tv HD
+http://135.125.109.73:9000/beinsport7_.m3u8
+#EXTINF:-1,Bein Sport 8 tv HD
+http://135.125.109.73:9000/beinsport8_.m3u8
+#EXTINF:-1,Cinemax tv HD
+http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1,Cinemax 2 tv HD
+http://88.212.7.11/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1,DUHOK Radio FM
+http://stream-156.zeno.fm/2rqkdc0ul88vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIycnFrZGMwdWw4OHZ2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imt1cUFlNXFKVE9pWFp0eVJqRmlPbVEiLCJpYXQiOjE3MzExOTEyNjUsImV4cCI6MTczMTE5MTMyNX0.Jw0fOo9X-IKor5NKYbumT2lQ4rnWgoJKRnlXTySBENs
+#EXTINF:-1,K24 radio FM
+http://stream-175.zeno.fm/3c1rf56hpm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzYzFyZjU2aHBtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IklOYVA5d3htUnBPQzR0elVGN0hTVHciLCJpYXQiOjE3MzExOTE1NjAsImV4cCI6MTczMTE5MTYyMH0.kxi-IHsrksUIciQK3EW57Q0oQEL6TJL_y1nMjFOJA_Y
+#EXTINF:-1,Guvand Radio FM
+http://stream.zeno.fm:80/xzzu8kynq2zuv
+#EXTINF:-1,Shvan Parwer Radio FM 
+http://stream.zeno.fm:80/h6mn2c8ha8zuv
+#EXTINF:-1,Aysha shan Radio FM
+http://stream-029.zeno.fm:80/xba7zmxgr2zuv?zs=_OVP4utpSXCX2-Mbhy554Q
+#EXTINF:-1,Halparkê Radio FM
+http://stream-153.zeno.fm/epdcu270rzzuv?zs=ErhmPP3YTdKfCwFTrJZP9A
+#EXTINF:-1,Diyar Dersim Radio FM 
+http://stream-158.zeno.fm/tdt5uwxgr2zuv?zs=h9SFodA1Q4iySR01I3ESEQ
+#EXTINF:-1,Eyub ali Radio FM
+http://stream-159.zeno.fm/f1y1zdb6g2zuv?zs=aZKj7OCOQhKasQRYM718kg
+#EXTINF:-1,Hozan Dino Radio FM
+http://stream-156.zeno.fm/pfcyz5g6g2zuv?zs=R8PwOSeISuueBtRHY8fflA
+#EXTINF:-1,Abdulqahar Zaxoyi Radio FM
+http://stream-157.zeno.fm/m1vh4va6g2zuv?zs=-zvvrrMCQu-h5TU10HsHKg
+#EXTINF:-1,Bilend Ibrahim Radio FM
+http://stream-156.zeno.fm/evxh46a6g2zuv?zs=J3dbyl12Tv6zguixpl3s8w
+#EXTINF:-1,Erdawan û Ayaz Zaxoyi Radio FM
+http://stream-155.zeno.fm/qkk6mph6g2zuv?zs=x4WbBLDsRVaoGLaCz1aV7A
+#EXTINF:-1,Çwan Haço Radio FM
+http://stream-155.zeno.fm/kwe46uc6g2zuv?zs=e1q2sTZcSLmMSbV_yB3jdw
+#EXTINF:-1,Zakariya Abdullah Radio FM
+http://stream-155.zeno.fm/06kh2xe5g2zuv?zs=sFmum6i-QwyYCsqMBd-3LA
+#EXTINF:-1,Batman Radio FM
+http://yayin2.yayindakiler.com:4090/
+#EXTINF:-1,Kewra Radio FM
+http://yayin2.canliyayin.org:9350/;stream
+#EXTINF:-1,7afla Radio FM
+http://stream-162.zeno.fm/nk87ztybs2zuv?zs=3-s_Z3i2RRm5ZUY_NIDoeQ
+#EXTINF:-1,Dogan Radio FM
+http://yayin1.yayindakiler.com:3024/
+#EXTINF:-1,Dersim Radio FM
+http://yayin1.yayindakiler.com:3002/;audio.mp3
+#EXTINF:-1,Qamishlo Radio FM
+http://dengeqamishlo.stream.laut.fm/dengeqamishlo?t302=2023-06-07_22-27-13&uuid=ba4eec84-f253-4e79-a858-443f5d55b629
+#EXTINF:-1,Rebaz Radio FM
+http://rasti.out.airtime.pro:8000/rasti_a
+#EXTINF:-1,Fayruz Radio FM
+http://stream-151.zeno.fm/c0akqv6cz4zuv?zs=XAIxhPoKSUmB3PEG-JTiMA
