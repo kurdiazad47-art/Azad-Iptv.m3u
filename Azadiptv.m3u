@@ -81,7 +81,7 @@ http://88.212.7.11/live/test_cinemax2_hd_hevc/playlist.m3u8
 #EXTINF:-1,DUHOK Radio FM
 http://stream-156.zeno.fm/2rqkdc0ul88vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIycnFrZGMwdWw4OHZ2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imt1cUFlNXFKVE9pWFp0eVJqRmlPbVEiLCJpYXQiOjE3MzExOTEyNjUsImV4cCI6MTczMTE5MTMyNX0.Jw0fOo9X-IKor5NKYbumT2lQ4rnWgoJKRnlXTySBENs
 #EXTINF:-1,K24 radio FM
-https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf
+https://prod-mediate-events.applovin.com/1.0/event/cimp?id=909b04a0d7820d5c8a54f45c86959b8a7bbbf180&creative_id=12991002&custom_data=&placement=&cuid=&postback_ts=1766872176567
 #EXTINF:-1,Guvand Radio FM
 http://stream.zeno.fm:80/xzzu8kynq2zuv
 #EXTINF:-1,Shvan Parwer Radio FM 
@@ -154,3 +154,6 @@ https://anadolu.liderhost.com.tr/;stream.mp3
 http://yayin.firatfm.com:3065/;
 #EXTINF:-1,DUHOK Traffic🚦 Radio FM
 http://212.237.124.15:8686/pssend.mp3
+#EXTINF:-1,AVA Bahdinan FM
+http://ava.holan.it.com:8000/;
+
