@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,REKLAM 
+https://youtube.com/shorts/qF8vsTJmfGk?si=VYUnVuAtS5n_Fpnh
 #EXTINF:-1,DUHOK Music HD
 http://lol.bz:2095/qSKacq0t/qtGuTuQh/932003
 #EXTINF:-1,Shar tv HD
@@ -51,6 +53,8 @@ http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-1,MBC Geographic tv HD
 http://cf.4kmo.me:80/live/fa27bba07a1e/1adf66dbb1/363718.m3u8
+#EXTINF:-1,ASO SPORT HD
+http://mhiptv.com:8888/live/malakcode1913/1913504050/212854.ts
 #EXTINF:-1,Bein Sports 1 tv HD
 http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1,Bein Sport 2 tv HD
