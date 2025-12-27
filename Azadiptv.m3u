@@ -101,7 +101,7 @@ http://stream-155.zeno.fm/06kh2xe5g2zuv?zs=sFmum6i-QwyYCsqMBd-3LA
 #EXTINF:-1,Batman Radio FM
 http://yayin2.yayindakiler.com:4090/
 #EXTINF:-1,Kewra Radio FM
-http://yayin2.canliyayin.org:9350/;stream
+http://198.7.59.28:8146/;
 #EXTINF:-1,7afla Radio FM
 http://stream-162.zeno.fm/nk87ztybs2zuv?zs=3-s_Z3i2RRm5ZUY_NIDoeQ
 #EXTINF:-1,Dogan Radio FM
@@ -134,11 +134,19 @@ http://kesintisizyayin.com:1656/;
 https://ssl120.radyotelekom.com.tr/8546/stream
 #EXTINF:-1,Khak sorani Radio FM
 http://siliconvalley.servep2p.com:8000/khakfm
+EXTINF:-1,Kurd 1 Radio FM
+https://listen.radioking.com/radio/119251/stream/158701
+EXTINF:-1,Kurdish Mûzik Radio FM
+https://kurdishmusik.stream.laut.fm/kurdishmusik
+EXTINF:-1,Radio shafaq Radio FM
+https://radio.shafaq.com/kurdish
+EXTINF:-1,Mezobotamya Radio FM
+https://anadolu.liderhost.com.tr/;stream.mp3
+EXTINF:-1,Firat Radio FM
+http://yayin.firatfm.com:3065/;
+EXTINF:-1,Khak sorani Radio FM
 
+EXTINF:-1,Khak sorani Radio FM
 
-
-
-
-
-
+EXTINF:-1,Khak sorani Radio FM
 
