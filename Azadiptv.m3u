@@ -174,16 +174,21 @@ http://lukatv.net:8880/live/551632710530/140777688297/550804.ts
 http://line.sir24.biz:8080/naguibchalal/chalalnaguib/23106
 #EXTINF:-1, Dilanar Artist
 https://open.spotify.com/artist/5txmfjd45mMnNKqbL02ooc?si=d6GHNW6mQj2JGxYVBjmQAw
-#EXTINF:-1, 
 
-#EXTINF:-1, 
+#EXTM3U
 
-#EXTINF:-1, 
+# ======================
+# NEWS
+# ======================
+#EXTINF:-1 tvg-id="shahid.news" tvg-name="Shahid" tvg-logo="https://i.imgur.com/9XqGZQp.png" group-title="News",Shahid
+http://gosat.xyz:8080/aminibrahem/89899292833/18746
 
-#EXTINF:-1, 
 
-
-
+# ======================
+# KURDISH
+# ======================
+#EXTINF:-1 tvg-id="nrt.kurdish" tvg-name="NRT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/NRT_TV_Logo.png" group-title="Kurdish",NRT
+http://line.sir24.biz:8080/naguibchalal/chalalnaguib/23106
 
 
 
