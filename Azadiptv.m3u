@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="Kurdish",REKLAM
 https://archive.org/download/video.-guru-20250727-121557451/Video.Guru_20250727_121557451.ia.mp4
 
-#EXTINF:-1 group-title="Kurdish",DUHOK Music HD
+#EXTINF:-1 group-title="Mûzik",DUHOK Music HD
 http://lol.bz:2095/qSKacq0t/qtGuTuQh/932003
 
 #EXTINF:-1 group-title="Kurdish",Shar TV HD
@@ -15,13 +15,13 @@ http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish",Zavar TV HD
 http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
 
-#EXTINF:-1 group-title="Kurdish",Istar Quran TV HD
+#EXTINF:-1 group-title="Quran",Istar Quran TV HD
 https://live20.bozztv.com/giatv/giatv-istar4ktv/istar4ktv/chunks.m3u8
 
-#EXTINF:-1 group-title="Kurdish",Amojgary TV HD
+#EXTINF:-1 group-title="Quran",Amojgary TV HD
 https://app-live.org/live/3268334b/index.m3u8
 
-#EXTINF:-1 group-title="Kurdish",Next TV HD
+#EXTINF:-1 group-title="Movies",Next TV HD
 http://streamcdn.us:8080/live/98778676754/88526902544/115346.ts
 
 #EXTINF:-1 group-title="Kurdish",Euro Kurd TV HD
@@ -113,3 +113,21 @@ http://135.125.109.73:9000/beinsport8_.m3u8
 
 #EXTINF:-1 group-title="Movies",Cinemax HD
 http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",Cinemax 2 HD
+http://88.212.7.11/live/test_cinemax2_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio",DUHOK Radio FM
+http://stream-156.zeno.fm/2rqkdc0ul88vv
+
+#EXTINF:-1 group-title="Radio",K24 Radio FM
+https://prod-mediate-events.applovin.com/1.0/event/cimp
+
+#EXTINF:-1 group-title="Radio",Guvand Radio FM
+http://stream.zeno.fm:80/xzzu8kynq2zuv
+
+#EXTINF:-1 group-title="Movies",Shahid
+http://gosat.xyz:8080/aminibrahem/89899292833/18746
+
+#EXTINF:-1 group-title="News",NRT News
+http://line.sir24.biz:8080/naguibchalal/chalalnaguib/23106
