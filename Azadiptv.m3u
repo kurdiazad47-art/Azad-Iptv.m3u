@@ -239,7 +239,7 @@ http://212.237.124.15:8686/pssend.mp3
 #EXTINF:-1 group-title="Radio",Ava Bahdinan radio FM
 http://ava.holan.it.com:8000/;
 
-#EXTINF:-1 group-title="Sport",DUHOK SPORT HD
+#EXTINF:-1 group-title="Sports",DUHOK SPORT HD
 http://prmfr.cc:8000/live/938tlbwqnt/4pw75zeckv/1527850.ts
 
 #EXTINF:-1 group-title="Kurdish",Waar TV HD
@@ -248,7 +248,7 @@ http://d4k4u.com:80/play/live.php?mac=00:1A:79:B5:18:70&stream=86275&extension=t
 #EXTINF:-1 group-title="Movies",F Movies HD
 http://lol.bz:2095/qSKacq0t/qtGuTuQh/931900
 
-#EXTINF:-1 group-title="Sport",DTV Sport HD
+#EXTINF:-1 group-title="Sports",DTV Sport HD
 http://mhiptv.com:8888/live/malakcode1913/1913504050/212843.ts
 
 #EXTINF:-1 group-title="Kids",Spi kids
@@ -257,7 +257,7 @@ https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 #EXTINF:-1 group-title="Kids",Afarin kids HD
 http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist_w1505309502.m3u8?nimblesessionid=574377&amp;
 
-#EXTINF:-1 group-title="Radio",Dever Sheladizê HD
+#EXTINF:-1 group-title="Kurdish",Dever Sheladizê HD
 http://lukatv.net:8880/live/551632710530/140777688297/550804.ts
 
 
