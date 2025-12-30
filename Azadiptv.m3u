@@ -13,7 +13,7 @@ http://baskhd.ddns.net:40/live/zerinmuzik/index.m3u8
 #EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/17/365789519.png" group-title="Kurdish",Shar TV HD
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 
-#EXTINF:-1 group-title="Kurdish",Ravand TV HD
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/19/990438345.jpeg" group-title="Kurdish",Ravand TV HD
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
 
 #EXTINF:-1 group-title="Kurdish",Zavar TV HD
