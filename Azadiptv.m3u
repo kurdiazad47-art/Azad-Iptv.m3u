@@ -10,7 +10,7 @@ http://lol.bz:2095/qSKacq0t/qtGuTuQh/932003
 #EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/10/339605188.jpg" group-title="Mûzik",ZÊRÎN Mûzik HD
 http://baskhd.ddns.net:40/live/zerinmuzik/index.m3u8
 
-#EXTINF:-1 group-title="Kurdish",Shar TV HD
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/17/365789519.png" group-title="Kurdish",Shar TV HD
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 
 #EXTINF:-1 group-title="Kurdish",Ravand TV HD
