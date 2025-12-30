@@ -55,7 +55,7 @@ http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
 #EXTINF:-1 group-title="Quran",Mihrab TV HD
 http://baskhd.ddns.net:40/live/MihrabTV/media_w1839533553_1911.m3u8
 
-#EXTINF:-1 group-title="Documentary",C2 Documents TV HD
+#EXTINF:-1 https://www2.0zz0.com/2025/12/30/19/253411364.png" group-title="Documentary",C2 Documents TV HD
 http://baskhd.ddns.net:40/live/c2doc/index.m3u8
 
 #EXTINF:-1 group-title="Comedy",ZÊRÎN Comedy TV HD
@@ -70,7 +70,7 @@ http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
 #EXTINF:-1 group-title="Quran",Soz Quran 2 TV HD
 https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
 
-#EXTINF:-1 group-title="Kids",ZÊRÎN Kids TV HD
+#EXTINF:-1 https://www2.0zz0.com/2025/12/30/19/108630529.png" group-title="Kids",ZÊRÎN Kids TV HD
 http://baskhd.ddns.net:40/live/zerinkids/index.m3u8
 
 #EXTINF:-1 group-title="Kurdish",Walla TV HD
@@ -121,7 +121,7 @@ http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Cinemax 2 HD
 http://88.212.7.11/live/test_cinemax2_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="Radio",DUHOK Radio FM
+#EXTINF:-1 https://www2.0zz0.com/2025/12/30/19/236160626.png" group-title="Radio",DUHOK Radio FM
 http://stream-156.zeno.fm/2rqkdc0ul88vv
 
 #EXTINF:-1 group-title="Radio",K24 Radio FM
