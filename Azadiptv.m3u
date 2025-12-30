@@ -58,7 +58,7 @@ http://baskhd.ddns.net:40/live/MihrabTV/media_w1839533553_1911.m3u8
 #EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/19/253411364.png" group-title="Documentary",C2 Documents TV HD
 http://baskhd.ddns.net:40/live/c2doc/index.m3u8
 
-#EXTINF:-1 https://www2.0zz0.com/2025/12/30/19/440511925.jpg" group-title="Comedy",ZÊRÎN Comedy TV HD
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/19/440511925.jpg" group-title="Comedy",ZÊRÎN Comedy TV HD
 http://baskhd.ddns.net:40/live/zerincomedy/index.m3u8
 
 #EXTINF:-1 group-title="Movies",Soz Movies TV HD
