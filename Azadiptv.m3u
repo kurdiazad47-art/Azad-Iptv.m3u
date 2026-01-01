@@ -121,7 +121,7 @@ http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Cinemax 2 HD
 http://88.212.7.11/live/test_cinemax2_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/19/236160626.png" group-title="Radio",DUHOK Radio FM
+#EXTINF:-1 tvg-logo="https://ibb.co/Q39nyvND" group-title="Radio",DUHOK Radio FM
 http://stream-156.zeno.fm/2rqkdc0ul88vv
 
 #EXTINF:-1 group-title="Radio",K24 Radio FM
