@@ -46,7 +46,7 @@ http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
 #EXTINF:-1 group-title="Kurdish",Batifa TV HD
 https://6476e46b58f91.streamlock.net/liveTrans/batifa/chunklist_w632227207.m3u8
 
-#EXTINF:-1 group-title="Kurdish",Wellat TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Wellat TV HD
 http://stream.welattv.net:1935/welat/tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Kurdish",Mix Kurdi TV HD
