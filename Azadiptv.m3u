@@ -1,488 +1,485 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/10/703069218.jpg" group-title="Kurdish",REKLAM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",REKLAM
 https://archive.org/download/video.-guru-20250727-121557451/Video.Guru_20250727_121557451.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/10/504807053.png" group-title="Mûzik",DUHOK Music HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Mûzik",DUHOK Music HD
 http://lol.bz:2095/qSKacq0t/qtGuTuQh/932003
 
-#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/10/339605188.jpg" group-title="Mûzik",ZÊRÎN Mûzik HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Mûzik",ZÊRÎN Mûzik HD
 http://baskhd.ddns.net:40/live/zerinmuzik/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/17/365789519.png" group-title="Kurdish",Shar TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Shar TV HD
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/19/990438345.jpeg" group-title="Kurdish",Ravand TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Ravand TV HD
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
 
-#EXTINF:-1 group-title="Kurdish",Zavar TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Zavar TV HD
 http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/19/519655568.jpeg" group-title="Quran",Istar Quran TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Quran",Istar Quran TV HD
 https://live20.bozztv.com/giatv/giatv-istar4ktv/istar4ktv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/19/335261135.jpeg" group-title="Quran",Amojgary TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Quran",Amojgary TV HD
 https://app-live.org/live/3268334b/index.m3u8
 
-#EXTINF:-1 group-title="Movies",Next TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",Next TV HD
 http://streamcdn.us:8080/live/98778676754/88526902544/115346.ts
 
-#EXTINF:-1 group-title="Kurdish",Euro Kurd TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Euro Kurd TV HD
 http://eurokurd.mymediapc.net:40/live/Eurokurd/playlist.m3u8
 
-#EXTINF:-1 group-title="Kurdish",Khak TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Khak TV HD
 http://bblserver.ddns.net:1935/stream/khakhd/chunklist_w388974096.m3u8
 
-#EXTINF:-1 group-title="Mûzik",4Kurd Music TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Mûzik",4Kurd Music TV HD
 https://4kuhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="Kurdish",Bnar TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Bnar TV HD
 http://baskhd.ddns.net:40/live/bnar4k/chunklist_w617383350.m3u8
 
-#EXTINF:-1 group-title="Movies",Bnar Movies TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",Bnar Movies TV HD
 http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
 
-#EXTINF:-1 group-title="Kurdish",Batifa TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Batifa TV HD
 https://6476e46b58f91.streamlock.net/liveTrans/batifa/chunklist_w632227207.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Wellat TV HD
 http://stream.welattv.net:1935/welat/tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Kurdish",Mix Kurdi TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Mix Kurdi TV HD
 http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
 
-#EXTINF:-1 group-title="Quran",Mihrab TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Quran",Mihrab TV HD
 http://baskhd.ddns.net:40/live/MihrabTV/media_w1839533553_1911.m3u8
 
-#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/19/253411364.png" group-title="Documentary",C2 Documents TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Documentary",C2 Documents TV HD
 http://baskhd.ddns.net:40/live/c2doc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/19/440511925.jpg" group-title="Comedy",ZÊRÎN Comedy TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Comedy",ZÊRÎN Comedy TV HD
 http://baskhd.ddns.net:40/live/zerincomedy/index.m3u8
 
-#EXTINF:-1 group-title="Movies",Soz Movies TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",Soz Movies TV HD
 https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
 
-#EXTINF:-1 group-title="Quran",Soz Quran 1 TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Quran",Soz Quran 1 TV HD
 http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
 
-#EXTINF:-1 group-title="Quran",Soz Quran 2 TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Quran",Soz Quran 2 TV HD
 https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/19/108630529.png" group-title="Kids",ZÊRÎN Kids TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kids",ZÊRÎN Kids TV HD
 http://baskhd.ddns.net:40/live/zerinkids/index.m3u8
 
-#EXTINF:-1 group-title="Kurdish",Walla TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Walla TV HD
 https://live20.bozztv.com/giatv/giatv-halabja88walla/halabja88walla/chunks.m3u8
 
-#EXTINF:-1 group-title="Kurdish",Soran TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Soran TV HD
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentary",Love Nature HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Documentary",Love Nature HD
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 
-#EXTINF:-1 group-title="Documentary",MBC Geographic HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Documentary",MBC Geographic HD
 http://cf.4kmo.me:80/live/fa27bba07a1e/1adf66dbb1/363718.m3u8
 
-#EXTINF:-1 group-title="Sports",ASO SPORT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",ASO SPORT HD
 http://mhiptv.com:8888/live/malakcode1913/1913504050/212854.ts
 
-#EXTINF:-1 group-title="Movies",STV Movies HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",STV Movies HD
 https://6476e46b58f91.streamlock.net/liveTrans/stvone/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports",BeIN Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 1 HD
 http://135.125.109.73:9000/beinsport1_.m3u8
 
-#EXTINF:-1 group-title="Sports",BeIN Sports 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 2 HD
 http://135.125.109.73:9000/beinsport2_.m3u8
 
-#EXTINF:-1 group-title="Sports",BeIN Sports 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 3 HD
 http://135.125.109.73:9000/beinsport3_.m3u8
 
-#EXTINF:-1 group-title="Sports",BeIN Sports 4 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 4 HD
 http://135.125.109.73:9000/beinsport4_.m3u8
 
-#EXTINF:-1 group-title="Sports",BeIN Sports 5 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 5 HD
 http://135.125.109.73:9000/beinsport5_.m3u8
 
-#EXTINF:-1 group-title="Sports",BeIN Sports 6 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 6 HD
 http://135.125.109.73:9000/beinsport6_.m3u8
 
-#EXTINF:-1 group-title="Sports",BeIN Sports 7 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 7 HD
 http://135.125.109.73:9000/beinsport7_.m3u8
 
-#EXTINF:-1 group-title="Sports",BeIN Sports 8 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 8 HD
 http://135.125.109.73:9000/beinsport8_.m3u8
 
-#EXTINF:-1 group-title="Movies",Cinemax HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",Cinemax HD
 http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies",Cinemax 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",Cinemax 2 HD
 http://88.212.7.11/live/test_cinemax2_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/12/30/19/236160626.png" group-title="Radio",DUHOK Radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",DUHOK Radio FM
 http://stream-156.zeno.fm/2rqkdc0ul88vv
 
-#EXTINF:-1 group-title="Radio",K24 Radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",K24 Radio FM
 https://prod-mediate-events.applovin.com/1.0/event/cimp
 
-#EXTINF:-1 group-title="Radio",Guvand Radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Guvand Radio FM
 http://stream.zeno.fm:80/xzzu8kynq2zuv
 
-#EXTINF:-1 group-title="Movies",Shahid
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",Shahid
 http://gosat.xyz:8080/aminibrahem/89899292833/18746
 
-#EXTINF:-1 group-title="News",NRT News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="News",NRT News
 http://line.sir24.biz:8080/naguibchalal/chalalnaguib/23106
 
-#EXTINF:-1 group-title="Radio",Shvan perwer FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Shvan perwer FM
 http://stream.zeno.fm:80/h6mn2c8ha8zuv
 
-#EXTINF:-1 group-title="Radio",Aysha shan FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Aysha shan FM
 http://stream-029.zeno.fm:80/xba7zmxgr2zuv?zs=_OVP4utpSXCX2-Mbhy554Q.mp3
 
-#EXTINF:-1 group-title="Radio",Diyar dersim FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Diyar dersim FM
 http://stream-158.zeno.fm/tdt5uwxgr2zuv?zs.mp3
 
-#EXTINF:-1 group-title="Radio",Eyub Ali FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Eyub Ali FM
 http://stream-159.zeno.fm/f1y1zdb6g2zuv?zs=aZKj7OCOQhKasQRYM718kg
 
-#EXTINF:-1 group-title="Radio",Hozan dino FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Hozan dino FM
 http://stream-156.zeno.fm/pfcyz5g6g2zuv?zs=R8PwOSeISuueBtRHY8fflA
 
-#EXTINF:-1 group-title="Radio",Abdulqahar zaxoy FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Abdulqahar zaxoy FM
 http://stream-157.zeno.fm/m1vh4va6g2zuv?zs=-zvvrrMCQu-h5TU10HsHKg
 
-#EXTINF:-1 group-title="Radio",bilnd ibrahim FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",bilnd ibrahim FM
 http://stream-156.zeno.fm/evxh46a6g2zuv?zs=J3dbyl12Tv6zguixpl3s8w
 
-#EXTINF:-1 group-title="Radio",Erdawan û ayaz zaxoy FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Erdawan û ayaz zaxoy FM
 http://stream-155.zeno.fm/qkk6mph6g2zuv?zs=x4WbBLDsRVaoGLaCz1aV7A
 
-#EXTINF:-1 group-title="Radio",Çwan haço FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Çwan haço FM
 http://stream-155.zeno.fm/kwe46uc6g2zuv?zs=e1q2sTZcSLmMSbV_yB3jdw
 
-#EXTINF:-1 group-title="Radio",Zakarya Abdullah FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Zakarya Abdullah FM
 http://stream-155.zeno.fm/06kh2xe5g2zuv?zs=sFmum6i-QwyYCsqMBd-3LA/live/mp3
 
-#EXTINF:-1 group-title="Radio",Batman radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Batman radio FM
 http://yayin2.yayindakiler.com:4090/
 
-#EXTINF:-1 group-title="Radio",Kewra FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Kewra FM
 http://198.7.59.28:8146/;
 
-#EXTINF:-1 group-title="Radio",7afla FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",7afla FM
 http://stream-162.zeno.fm/nk87ztybs2zuv?zs=3-s_Z3i2RRm5ZUY_NIDoeQ
 
-#EXTINF:-1 group-title="Radio",Dogan radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Dogan radio FM
 http://yayin1.yayindakiler.com:3024/
 
-#EXTINF:-1 group-title="Radio",Dersim radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Dersim radio FM
 http://yayin1.yayindakiler.com:3002/;audio.mp3
 
-#EXTINF:-1 group-title="Radio",Qamishlo FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Qamishlo FM
 http://dengeqamishlo.stream.laut.fm/dengeqamishlo?t302=2023-06-07_22-27-13&uuid=ba4eec84-f253-4e79-a858-443f5d55b629
 
-#EXTINF:-1 group-title="Radio",Rebaz radio Rojava FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Rebaz radio Rojava FM
 http://rasti.out.airtime.pro:8000/rasti_a
 
-#EXTINF:-1 group-title="Radio",Fayruz radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Fayruz radio FM
 http://gosat.xyz:8080/aminibrahem/89899292833/52554
 
-#EXTINF:-1 group-title="Radio",Dicle radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Dicle radio FM
 http://dicle-rojavaradio.radioca.st/stream
 
-#EXTINF:-1 group-title="Radio",TRT Kurdi radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",TRT Kurdi radio FM
 https://radio-trtradyo6.medya.trt.com.tr/master_128.m3u8
 
-#EXTINF:-1 group-title="Radio",ARTA radio Rojava FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",ARTA radio Rojava FM
 http://edge.mixlr.com/channel/qtgru
 
-#EXTINF:-1 group-title="Radio",Azadi radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Azadi radio FM
 https://amed.ozelip.com/8040/stream
 
-#EXTINF:-1 group-title="Radio",Botan radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Botan radio FM
 http://yayin.netyayin.net:9914/;
 
-#EXTINF:-1 group-title="Radio",Dangê Cudi FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Dangê Cudi FM
 https://denge-cudi.stream.laut.fm/denge-cudi
 
-#EXTINF:-1 group-title="Radio",çzira botan radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",çzira botan radio FM
 http://yayin.netyayin.net:9914/;
 
-#EXTINF:-1 group-title="Radio",Dangê Gundi radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Dangê Gundi radio FM
 http://kesintisizyayin.com:1656/;
 
-#EXTINF:-1 group-title="Radio",Khak radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Khak radio FM
 http://siliconvalley.servep2p.com:8000/khakfm
 
-#EXTINF:-1 group-title="Radio",Kurd 1 radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Kurd 1 radio FM
 https://listen.radioking.com/radio/119251/stream/158701
 
-#EXTINF:-1 group-title="Radio",Kurd Mûzik FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Kurd Mûzik FM
 https://kurdishmusik.stream.laut.fm/kurdishmusik
 
-#EXTINF:-1 group-title="Radio",Radio shafaq FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Radio shafaq FM
 https://radio.shafaq.com/kurdish
 
-#EXTINF:-1 group-title="Radio",Mezobotamya Radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Mezobotamya Radio FM
 https://anadolu.liderhost.com.tr/;stream.mp3
 
-#EXTINF:-1 group-title="Radio",dangê Zalal radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",dangê Zalal radio FM
 
 https://ssl120.radyotelekom.com.tr/8546/stream
-#EXTINF:-1 group-title="Radio",Firat radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Firat radio FM
 
-#EXTINF:-1 group-title="Radio",Duhok traffic🚦 radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Duhok traffic🚦 radio FM
 http://212.237.124.15:8686/pssend.mp3
 
-#EXTINF:-1 group-title="Radio",Ava Bahdinan radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Ava Bahdinan radio FM
 http://ava.holan.it.com:8000/;
 
-#EXTINF:-1 group-title="Sports",DUHOK SPORT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",DUHOK SPORT HD
 http://prmfr.cc:8000/live/938tlbwqnt/4pw75zeckv/1527850.ts
 
-#EXTINF:-1 group-title="Kurdish",Waar TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Waar TV HD
 http://d4k4u.com:80/play/live.php?mac=00:1A:79:B5:18:70&stream=86275&extension=ts&play_token=VN4EeUPceF
 
-#EXTINF:-1 group-title="Movies",F Movies HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",F Movies HD
 http://lol.bz:2095/qSKacq0t/qtGuTuQh/931900
 
-#EXTINF:-1 group-title="Kids",Spi kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kids",Spi kids
 https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 
-#EXTINF:-1 group-title="Kids",Afarin kids HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kids",Afarin kids HD
 http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist_w1505309502.m3u8?nimblesessionid=574377&amp;
 
-#EXTINF:-1 group-title="Kurdish",Dever Sheladizê HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Dever Sheladizê HD
 http://lukatv.net:8880/live/551632710530/140777688297/550804.ts
 
-#EXTINF:-1 group-title="Sports",Tennis🎾 Channel 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Tennis🎾 Channel 4K
 https://gentle-water-9875.aayushmansinghrajpurohit95.workers.dev/4706.m3u8
 
-#EXTINF:-1 group-title="Sports",Tajikistan Sport HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Tajikistan Sport HD
 https://live.teleradiocom.tj:443/5/3m.m3u8
 
-#EXTINF:-1 group-title="Sports",Alkass 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Alkass 1 HD
 http://gosat.xyz:8080/aminibrahem/89899292833/42586
 
-#EXTINF:-1 group-title="Sports",Alkass 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Alkass 2 HD
 http://gosat.xyz:8080/aminibrahem/89899292833/44007
 
-#EXTINF:-1 group-title="Sports",Alkass 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Alkass 3 HD
 http://gosat.xyz:8080/aminibrahem/89899292833/52780
 
-#EXTINF:-1 group-title="Sports",Alkass 4 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Alkass 4 HD
 http://line.sir24.biz:8080/naguibchalal/chalalnaguib/80499
 
-#EXTINF:-1 group-title="Hindi",B4U Movies HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Hindi",B4U Movies HD
 http://prmfr.cc:8000/live/938tlbwqnt/4pw75zeckv/1015787.ts
 
-#EXTINF:-1 group-title="Radio",Wellat Radio FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Wellat Radio FM
 http://stream-152.zeno.fm/qp382x95g2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxcDM4Mng5NWcyenV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiU1BJTWs0djNUNXVjSERiWHNuTGI2ZyIsImlhdCI6MTc2NjM1MzgwOSwiZXhwIjoxNzY2MzUzODY5fQ.PaKk_87OKuxIRMIbd72goKMzutdDELxxxA1Uot8MnCU
 
-#EXTINF:-1 group-title="Sports",Tennis🎾 IT 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Tennis🎾 IT 4K
 https://gentle-water-9875.aayushmansinghrajpurohit95.workers.dev/4709.m3u8
 
-#EXTINF:-1 group-title="Hindi",B4U Music HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Hindi",B4U Music HD
 http://prmfr.cc:8000/live/938tlbwqnt/4pw75zeckv/1015788.ts
 
-#EXTINF:-1 group-title="Hindi",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Hindi",Zee Cinema HD
 http://prmfr.cc:8000/live/938tlbwqnt/4pw75zeckv/1015809.ts
 
-#EXTINF:-1 group-title="Hindi",Bollywood Latest 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Hindi",Bollywood Latest 4K
 https://gentle-water-9875.aayushmansinghrajpurohit95.workers.dev/2528.m3u8
 
-#EXTINF:-1 group-title="Food",Hindi_Food 🍲
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Food",Hindi_Food 🍲
 http://prmfr.cc:8000/live/938tlbwqnt/4pw75zeckv/1015791.ts
 
-#EXTINF:-1 group-title="Kurdish",Astera Family HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Astera Family HD
 http://prmfr.cc:8000/live/938tlbwqnt/4pw75zeckv/1527767.ts
 
-#EXTINF:-1 group-title="Kids",4Kids👫👫 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kids",4Kids👫👫 HD
 http://line.sir24.biz:8080/naguibchalal/chalalnaguib/3231
 
-#EXTINF:-1 group-title="Sports",Bein sports max 1 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Bein sports max 1 
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/146118.ts
 
-#EXTINF:-1 group-title="Sports",Bein sports max 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Bein sports max 2
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/146119.ts
 
-#EXTINF:-1 group-title="Sports",Canal+Football France HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Canal+Football France HD 
 http://line.sir24.biz:8080/naguibchalal/chalalnaguib/80194
 
-#EXTINF:-1 group-title="Sports",RMC Sports 1 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",RMC Sports 1 4K
 http://line.sir24.biz:8080/naguibchalal/chalalnaguib/14974
 
-#EXTINF:-1 group-title="Sports",RMC Sports 2 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",RMC Sports 2 4K
 http://line.sir24.biz:8080/naguibchalal/chalalnaguib/14975
 
-#EXTINF:-1 group-title="Hindi",ZEE Anmol Cinema HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Hindi",ZEE Anmol Cinema HD
 http://line.sir24.biz:8080/naguibchalal/chalalnaguib/4567
 
-#EXTINF:-1 group-title="Sports",Alwan Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Alwan Sports 1
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641605.ts
 
 
-#EXTINF:-1 group-title="Sports",Alwan Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Alwan Sports 2
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641606.ts
 
 
-#EXTINF:-1 group-title="Sports",Alwan Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Alwan Sports 3
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641607.ts
 
 
-#EXTINF:-1 group-title="Sports",Alwan Sports 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Alwan Sports 4
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641608.ts
 
-#EXTINF:-1 group-title="Sports",Alwan Sports 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Alwan Sports 5
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641609.ts
 
-#EXTINF:-1 group-title="Sports",Alwan Sports 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Alwan Sports 6
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641610.ts
 
-#EXTINF:-1 group-title="Sports",alwan Sports 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",alwan Sports 7
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641611.ts
 
-#EXTINF:-1 group-title="Sports",Alwan Sports 8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Alwan Sports 8
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641612.ts
 
 
-#EXTINF:-1 group-title="Sports",Alwan Sports 9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Alwan Sports 9
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641613.ts
 
-#EXTINF:-1 group-title="Sports",Alwan Sports 10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Alwan Sports 10
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641614.ts
 
-#EXTINF:-1 group-title="Sports",Alwan Sports UFC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Alwan Sports UFC
 http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641615.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Comedy",Yes comedy 4K
 
-#EXTINF:-1 group-title="Comedy",Yes comedy 4K
-
-#EXTINF:-1 group-title="Documentary",Yes Documentary HD
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Documentary",Yes Documentary HD
 
 
-#EXTINF:-1 group-title="Movies",Yes movies Action FHD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",Yes movies Action FHD
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/2350/index.m3u8
 
 
-#EXTINF:-1 group-title="Documentary",Nat geo wild HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Documentary",Nat geo wild HD
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/2344/index.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Documentary",Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Documentary",Discovery Channel HD
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/2358/index.m3u8
 
 
-#EXTINF:-1 group-title="Documentary",History channel HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Documentary",History channel HD
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/12265/index.m3u8
 
 
-#EXTINF:-1 group-title="Food",Food Channel HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Food",Food Channel HD
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/2377/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Yes Sports 1 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Yes Sports 1 FHD
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/12249/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Yes Sports 2 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Yes Sports 2 FHD
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/12250/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Yes Sports 3 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Yes Sports 3 FHD
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/12251/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Yes Sports 4 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Yes Sports 4 FHD
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/12252/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Yes Sports 5 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Yes Sports 5 FHD
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/12254/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Yes Sports 5 Gold FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Yes Sports 5 Gold FHD
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/12253/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Bein sports Max 1 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Bein sports Max 1 4K
 http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
 
-#EXTINF:-1 group-title="Sports", Max Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports", Max Sports 1 HD
 http://77.46.130.252:99/maxsport1
 
-#EXTINF:-1 group-title="Sports",Max Sports 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Max Sports 2 HD
 http://77.46.130.252:99/maxsport2
 
-#EXTINF:-1 group-title="Sports",Max Sports 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Max Sports 3 HD
 http://77.46.130.252:99/maxsport3
 
-#EXTINF:-1 group-title="Sports",Max Sports 4 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Max Sports 4 HD
 http://77.46.130.252:99/maxsport4
 
-#EXTINF:-1 group-title="Sports",Bein Sports Max HD 1 Arabic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Bein Sports Max HD 1 Arabic
 http://199.115.193.116/90040798278941/90040798278941/432904
 
-#EXTINF:-1 group-title="Sports",Bein sports Max HD 2 Arabic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Bein sports Max HD 2 Arabic
 http://199.115.193.116/90040798278941/90040798278941/432900
 
-#EXTINF:-1 group-title="Sports",Bein Sports Max HD 3 English
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Bein Sports Max HD 3 English
 http://199.115.193.116/90040798278941/90040798278941/432894
 
-#EXTINF:-1 group-title="Sports",Bein Sports Max HD 4 France
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Bein Sports Max HD 4 France
 http://199.115.193.116/live/90040798278941/90040798278941/432889.ts
 
-#EXTINF:-1 group-title="Sports",Sky Sports Darts FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Sky Sports Darts FHD
 http://portal5458.com:8080/Nrobledo917/1705854493/47865
 
-#EXTINF:-1 group-title="Sports",Sky Sports cricet HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Sky Sports cricet HD
 http://portal5458.com:8080/Nrobledo917/1705854493/47864
 
 
-#EXTINF:-1 group-title="Sports",Sky Sports + HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Sky Sports + HD
 http://portal5458.com:8080/Nrobledo917/1705854493/47863
 
-#EXTINF:-1 group-title="Sports",Sky Sports becebol HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Sky Sports becebol HD
 http://portal5458.com:8080/Nrobledo917/1705854493/47862
 
-#EXTINF:-1 group-title="Sports",Rangers Club TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Rangers Club TV 
 http://portal5458.com:8080/Nrobledo917/1705854493/47861
 
-#EXTINF:-1 group-title="Sports",Sky Sports Football HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Sky Sports Football HD
 http://portal5458.com:8080/Nrobledo917/1705854493/47866
 
-#EXTINF:-1 group-title="Sports",Sky Sports Premier League HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Sky Sports Premier League HD
 http://portal5458.com:8080/Nrobledo917/1705854493/47867
 
 
-#EXTINF:-1 group-title="Sports",Sky Sports Main Event HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Sky Sports Main Event HD
 http://portal5458.com:8080/Nrobledo917/1705854493/47868
 
 
-#EXTINF:-1 group-title="Sports",Sky Sports Mix HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Sky Sports Mix HD
 http://portal5458.com:8080/Nrobledo917/1705854493/47869
 
-#EXTINF:-1 group-title="Sports",Sky S Sports Racing HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Sky S Sports Racing HD
 http://portal5458.com:8080/Nrobledo917/1705854493/47872
 
-#EXTINF:-1 group-title="Sports",Sky Sports News HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Sky Sports News HD
 http://portal5458.com:8080/Nrobledo917/1705854493/47871
 
-#EXTINF:-1 group-title="Sports",Sky Sports Racing HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Sky Sports Racing HD
 http://portal5458.com:8080/Nrobledo917/1705854493/47872
 
-#EXTINF:-1 group-title="Sports",Iraqia Sport HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Iraqia Sport HD
 http://mag.dream-4k.cc/AF3F53A747A11DD/9g6pOHz3Sx/3924
 
-#EXTINF:-1 group-title="Sports",TNT Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",TNT Sports 1 HD
 http://197.220.88.26:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=
 
-#EXTINF:-1 group-title="Sports",TNT Sports 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",TNT Sports 2 HD
 http://197.220.88.26:2200/EX/BT_Sport_2_HD-uk/index.m3u8?token=
 
-#EXTINF:-1 group-title="Sports",TNT Sports 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",TNT Sports 3 HD
 http://197.220.88.26:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=
 
-#EXTINF:-1 group-title="Sports",TNT Sports 4 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",TNT Sports 4 HD
 http://197.220.88.26:2200/EX/BT_Sport_4_HD-uk/index.m3u8?token=
-
-
