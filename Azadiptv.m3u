@@ -483,3 +483,23 @@ http://197.220.88.26:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",TNT Sports 4 HD
 http://197.220.88.26:2200/EX/BT_Sport_4_HD-uk/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Hindi",Bollywood Classic HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Hindi",Bollywood TV HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Hindi",Zee Classic HD
+http://199.115.193.116/live/90040798278941/90040798278941/318822.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Hindi",Udaya Music HD
+http://199.115.193.116/live/90040798278941/90040798278941/319065.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Hindi",Sun Music HD
+http://199.115.193.116/live/90040798278941/90040798278941/318980.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Hindi",Music India HD
+http://199.115.193.116/live/90040798278941/90040798278941/318881.ts
+
+
