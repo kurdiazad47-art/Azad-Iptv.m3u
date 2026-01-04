@@ -473,7 +473,16 @@ http://portal5458.com:8080/Nrobledo917/1705854493/47872
 #EXTINF:-1 group-title="Sports",Iraqia Sport HD
 http://mag.dream-4k.cc/AF3F53A747A11DD/9g6pOHz3Sx/3924
 
-#EXTINF:-1 group-title="Sports",Sky Sports
+#EXTINF:-1 group-title="Sports",TNT Sports 1 HD
+http://197.220.88.26:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=
+
+#EXTINF:-1 group-title="Sports",TNT Sports 2 HD
+http://197.220.88.26:2200/EX/BT_Sport_2_HD-uk/index.m3u8?token=
+
+#EXTINF:-1 group-title="Sports",TNT Sports 3 HD
+http://197.220.88.26:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=
+
+#EXTINF:-1 group-title="Sports",TNT Sports 4 HD
+http://197.220.88.26:2200/EX/BT_Sport_4_HD-uk/index.m3u8?token=
 
 
-#EXTINF:-1 group-title="Sports",Sky Sports
