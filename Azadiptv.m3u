@@ -502,6 +502,5 @@ http://199.115.193.116/live/90040798278941/90040798278941/318980.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Hindi",Music India HD
 http://199.115.193.116/live/90040798278941/90040798278941/318881.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="YouTube",Ahmed Zebari YouTube▶️
-content://media/external/downloads/1000031413
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Music",Ahmed Zebari 
+https://ia903109.us.archive.org/30/items/img-4694_202601/IMG_4694.MP4
