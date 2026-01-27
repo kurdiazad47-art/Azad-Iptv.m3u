@@ -131,7 +131,7 @@ http://stream-156.zeno.fm/2rqkdc0ul88vv
 https://prod-mediate-events.applovin.com/1.0/event/cimp
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Guvand Radio FM
-https://www2.0zz0.com/2026/01/27/19/873207304.png
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2026/01/27/19/873207304.png
 http://stream.zeno.fm:80/xzzu8kynq2zuv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",Shahid
