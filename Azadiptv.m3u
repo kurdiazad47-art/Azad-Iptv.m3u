@@ -630,7 +630,7 @@ http://mmn.mypsx.net:1935/live/mmnhddocumentary/chunklist_w312318736.m3u8
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Kanal 7 HD
-
+http://avrstream.com:1935/live/Kurd7HD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="News",K24 HD
 
