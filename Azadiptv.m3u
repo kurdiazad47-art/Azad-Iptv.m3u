@@ -92,7 +92,7 @@ http://cf.4kmo.me:80/live/fa27bba07a1e/1adf66dbb1/363718.m3u8
 http://mhiptv.com:8888/live/malakcode1913/1913504050/212854.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",STV Movies HD
-https://6476e46b58f91.streamlock.net/liveTrans/stvone/playlist.m3u8
+http://88.99.98.44:40/live/stvone/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 1 HD
 http://135.125.109.73:9000/beinsport1_.m3u8
@@ -247,12 +247,12 @@ http://ava.holan.it.com:8000/;
 http://prmfr.cc:8000/live/938tlbwqnt/4pw75zeckv/1527850.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Waar TV HD
-http://d4k4u.com:80/play/live.php?mac=00:1A:79:B5:18:70&stream=86275&extension=ts&play_token=VN4EeUPceF
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",F Movies HD
 http://lol.bz:2095/qSKacq0t/qtGuTuQh/931900
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kids",Spi kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kids",Spi kids HD
 https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kids",Afarin kids HD
@@ -553,3 +553,71 @@ https://ia600801.us.archive.org/29/items/erdawan-zaxoyi-hemi-mewalet-erdawani-64
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish archive Music", Xedir faqir Shngali
 https://ia601704.us.archive.org/32/items/1988-1-562x-360/%D8%AE%D8%AF%D8%B1%20%D9%81%D9%82%D9%8A%D8%B11988%28%20%D8%A7%D9%84%D8%AC%D8%B2%D8%A11%29%5B562x360%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kids",Zarok HD TV
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",MMN Movies HD
+http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist_w2048358718.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Halabja TV HD
+http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kids",Kidco HD
+http://avrstream.com:1935/live/kidcohd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",Like movies+ HD
+https://live20.bozztv.com/giatv/giatv-likemovies+/likemovies+/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Quran",Dekan Quran HD
+https://live20.bozztv.com/giatv/giatv-dekanquran/dekanquran/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Ala TV HD
+http://avrstream.com:1935/live/ala-hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Kanal 21 HD
+http://k21hd.mypsx.net:40/live/KANALI/media_w1249797924_15410.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Infinity HD
+https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",Bnar Movies HD
+http://baskhd.ddns.net:40/live//barinmovieSHD/media_w487164538_1382.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Bnar Family HD
+http://baskhd.ddns.net:40/live/BarinfamilyHD/media_w2140732852_1389.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Dunya TV HD
+https://live20.bozztv.com/giatv/giatv-DniaTV/DniaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Kurdmax Show badini HD
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Kurdmax TV Badini
+https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/chunklist_w600589281.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",AVA TV HD
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",Nubar Plus HD
+http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Nubar HD
+http://stream.nubar.tv:1935/private/NUBARtv/chunklist_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Gewher TV HD
+https://iptv-link.short.gy/Gewher.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Gewher Sports HD
+https://iptv-link.short.gy/Gewher_Sport.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kids",Gewher Kids HD
+https://iptv-link.short.gy/Gewher_Kids.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Quran",Gewher Islamic HD
+https://iptv-link.short.gy/Gewher-islamic.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kids",
+
+
+
