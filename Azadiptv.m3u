@@ -95,28 +95,28 @@ http://mhiptv.com:8888/live/malakcode1913/1913504050/212854.ts
 http://88.99.98.44:40/live/stvone/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 1 HD
-http://135.125.109.73:9000/beinsport1_.m3u8
+http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196189.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 2 HD
-http://135.125.109.73:9000/beinsport2_.m3u8
+http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196190.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 3 HD
-http://135.125.109.73:9000/beinsport3_.m3u8
+http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196191.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 4 HD
-http://135.125.109.73:9000/beinsport4_.m3u8
+http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196192.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 5 HD
-http://135.125.109.73:9000/beinsport5_.m3u8
+http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196193.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 6 HD
-http://135.125.109.73:9000/beinsport6_.m3u8
+http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196194.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 7 HD
-http://135.125.109.73:9000/beinsport7_.m3u8
+http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196195.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 8 HD
-http://135.125.109.73:9000/beinsport8_.m3u8
+http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196196.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",Cinemax HD
 http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
