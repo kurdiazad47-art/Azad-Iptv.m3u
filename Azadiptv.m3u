@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="All Channels",All Channels
-https://AllChannels.com
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Reklam",REKLAM
 https://archive.org/download/video.-guru-20250727-121557451/Video.Guru_20250727_121557451.ia.mp4
@@ -474,7 +472,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://199.115.193.116/live/90040798278941/90040798278941/318822.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Hindi",Udaya Music HD
-http://199.115.193.116/live/90040798278941/90040798278941/319065.ts
+http://c2025o.com:80/live/971507675640/681737378928/20668.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Hindi",Sun Music HD
 http://line.sir24.biz:8080/naguibchalal/chalalnaguib/4555
