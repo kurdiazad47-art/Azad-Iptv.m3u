@@ -14,10 +14,10 @@ http://baskhd.ddns.net:40/live/zerinmuzik/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Shar TV HD
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Ravand TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Quran",Ravand TV HD
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Zavar TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Quran",Zavar TV HD
 http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Quran",Istar Quran TV HD
@@ -303,10 +303,9 @@ http://prmfr.cc:8000/live/938tlbwqnt/4pw75zeckv/1527767.ts
 http://line.sir24.biz:8080/naguibchalal/chalalnaguib/3231
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Bein sports max 1 
-http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/146118.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Bein sports max 2
-http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/146119.ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Canal+Football France HD 
 http://line.sir24.biz:8080/naguibchalal/chalalnaguib/80194
