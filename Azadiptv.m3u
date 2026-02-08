@@ -14,10 +14,10 @@ http://baskhd.ddns.net:40/live/zerinmuzik/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Shar TV HD
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Ravand TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Quran",Ravand TV HD
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Zavar TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Quran",Zavar TV HD
 http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Quran",Istar Quran TV HD
@@ -75,7 +75,7 @@ https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
 http://baskhd.ddns.net:40/live/zerinkids/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Walla TV HD
-https://live20.bozztv.com/giatv/giatv-halabja88walla/halabja88walla/chunks.m3u8
+https://live20.bozztv.com/giatv/giatv-wallatv88/wallatv88/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Soran TV HD
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
@@ -96,25 +96,25 @@ http://88.99.98.44:40/live/stvone/mono.m3u8
 http://ibo.lynxiptv.com:80/live/760495572073/4ZWyUoO4zA/67338.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 2 HD
-http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196190.ts
+http://ibo.lynxiptv.com:80/live/760495572073/4ZWyUoO4zA/67339.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 3 HD
-http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196191.ts
+http://ibo.lynxiptv.com:80/live/760495572073/4ZWyUoO4zA/67340.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 4 HD
-http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196192.ts
+http://ibo.lynxiptv.com:80/live/760495572073/4ZWyUoO4zA/67341.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 5 HD
-http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196193.ts
+http://ibo.lynxiptv.com:80/live/760495572073/4ZWyUoO4zA/67342.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 6 HD
-http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196194.ts
+http://ibo.lynxiptv.com:80/live/760495572073/4ZWyUoO4zA/67343.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 7 HD
-http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196195.ts
+http://ibo.lynxiptv.com:80/live/760495572073/4ZWyUoO4zA/67344.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 8 HD
-http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196196.ts
+http://ibo.lynxiptv.com:80/live/760495572073/4ZWyUoO4zA/67345.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",Cinemax HD
 http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
@@ -123,10 +123,7 @@ http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_cinemax2_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",DUHOK Radio FM
-http://stream-156.zeno.fm/2rqkdc0ul88vv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",K24 Radio FM
-https://prod-mediate-events.applovin.com/1.0/event/cimp
+https://stream-156.zeno.fm/2rqkdc0ul88vv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Radio",Guvand Radio FM
 http://stream.zeno.fm:80/xzzu8kynq2zuv
