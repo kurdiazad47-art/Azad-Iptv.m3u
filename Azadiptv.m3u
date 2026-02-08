@@ -93,7 +93,7 @@ http://mhiptv.com:8888/live/malakcode1913/1913504050/212854.ts
 http://88.99.98.44:40/live/stvone/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 1 HD
-http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196189.ts
+http://ibo.lynxiptv.com:80/live/760495572073/4ZWyUoO4zA/67338.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 2 HD
 http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196190.ts
