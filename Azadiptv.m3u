@@ -45,7 +45,7 @@ http://baskhd.ddns.net:40/live/bnar4k/chunklist_w617383350.m3u8
 http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Batifa TV HD
-https://6476e46b58f91.streamlock.net/music/BATIFA-TV/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-batifa/BATIFA-TV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Wellat TV HD
 http://stream.welattv.net:1935/welat/tv/playlist.m3u8
