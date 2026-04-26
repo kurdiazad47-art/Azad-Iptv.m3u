@@ -317,7 +317,7 @@ http://line.sir24.biz:8080/naguibchalal/chalalnaguib/14975
 http://line.sir24.biz:8080/naguibchalal/chalalnaguib/4567
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Alwan Sports 1
-http://4kgood.org:8080/live/anzi35_877113/qNjTLxWI/1641605.ts
+https://s1.alajil24.com//alwan_sport1fhd/tracks-v1a1/mono.m3u8?remote=185.136.148.210&token=f4810a615a60e115df9de5896ed88b49b2bf9aa8-cfafd4ed799cb4d069be97c24b0aa15d-1777211756-1777200956
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Alwan Sports 2
@@ -617,7 +617,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="News",Al arabiya Hadath HD
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="News",K24 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="News",HD
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="News",K24 HD
