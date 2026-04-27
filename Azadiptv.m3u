@@ -446,7 +446,7 @@ http://portal5458.com:8080/Nrobledo917/1705854493/47871
 http://portal5458.com:8080/Nrobledo917/1705854493/47872
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Iraqia Sport HD
-http://mag.dream-4k.cc/AF3F53A747A11DD/9g6pOHz3Sx/3924
+http://xlion.net:8080/live/747645/lion123123/107038.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",TNT Sports 1 HD
 http://197.220.88.26:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=
@@ -565,20 +565,20 @@ http://baskhd.ddns.net:40/live/BarinfamilyHD/media_w2140732852_1389.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Dunya TV HD
 https://live20.bozztv.com/giatv/giatv-DniaTV/DniaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Kurdmax Show badini HD
-https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Kurdmax Show TV
+http://xlion.net:8080/live/747645/lion123123/429655.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Kurdmax TV Badini
-https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/chunklist_w600589281.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Kurdmax TV 
+http://xlion.net:8080/live/747645/lion123123/429653.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="News",AVA TV HD
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",Nubar Plus HD
-http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Music",Kurdmax Music HD
+http://xlion.net:8080/live/747645/lion123123/429657.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Nubar HD
-http://stream.nubar.tv:1935/private/NUBARtv/chunklist_index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Dever Sheladzê HD
+http://xlion.net:8080/live/747645/lion123123/429716.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Gewher TV HD
 https://iptv-link.short.gy/Gewher.m3u8
@@ -596,7 +596,7 @@ https://iptv-link.short.gy/Gewher-islamic.m3u8
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8#46f044f9941e0793ea8e7f5871d0599aaf5da699fd9ca23842b09671c6baf8a8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="News",Rudaw HD
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+http://xlion.net:8080/live/747645/lion123123/429643.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Documentary",MMN Documentary HD
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/chunklist_w312318736.m3u8
@@ -619,8 +619,8 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="News",Al arabiya Hadath HD
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="News",HD
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Comedy",LD Nujin HD
+http://xlion.net:8080/live/747645/lion123123/429757.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="News",K24 HD
 
