@@ -90,7 +90,7 @@ http://xlion.net:8080/live/747645/lion123123/429650.ts
 http://xlion.net:8080/live/747645/lion123123/358232.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",STV Movies HD
-http://88.99.98.44:40/live/stvone/mono.m3u8
+https://live20.bozztv.com/giatv/giatv-stv/stvone/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 1 HD
 http://xlion.net:8080/live/747645/lion123123/325793.ts
