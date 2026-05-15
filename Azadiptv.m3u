@@ -369,8 +369,10 @@ http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/2344/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Documentary",Discovery Channel HD
-http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/2358/index.m3u8
+http://41.205.93.154/DISCOVERY/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Documentary",Discovery Channel Pakistan HD
+http://livecdn.247stream.com/discoverypakistan/web/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Documentary",History channel HD
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/12265/index.m3u8
