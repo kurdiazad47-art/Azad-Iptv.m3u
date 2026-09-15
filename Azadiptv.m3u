@@ -14,8 +14,8 @@ http://baskhd.ddns.net:40/live/zerinmuzik/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Shar TV HD
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Quran",Ravand TV HD
-http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Duhok TV HD
+http://www.pandar.xyz:88/live/EsYFjARvbV1MaFR/kBEHvCKySFJIBQb/189952.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Quran",Zavar TV HD
 http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
@@ -86,35 +86,44 @@ http://xlion.net:8080/live/747645/lion123123/399453.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Documentary",K24 Documentary HD
 http://xlion.net:8080/live/747645/lion123123/429650.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",ASO SPORT HD
-http://xlion.net:8080/live/747645/lion123123/358232.ts
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",STV Movies HD
 https://live20.bozztv.com/giatv/giatv-stv/stvone/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 1 HD
-http://xlion.net:8080/live/747645/lion123123/325793.ts
+http://foxbleu-cdn.com//live/e8:aa:cb:c4:bf:92/aMzpeeG/13614.t
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 1 4K
+http://foxbleu-cdn.com//live/e8:aa:cb:c4:bf:92/aMzpeeG/78378.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 2 HD
-http://xlion.net:8080/live/747645/lion123123/325794.ts
+http://foxbleu-cdn.com//live/e8:aa:cb:c4:bf:92/aMzpeeG/13615.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 2 4K
+http://foxbleu-cdn.com//live/e8:aa:cb:c4:bf:92/aMzpeeG/78379.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 3 HD
-http://xlion.net:8080/live/747645/lion123123/325795.ts
+http://foxbleu-cdn.com//live/e8:aa:cb:c4:bf:92/aMzpeeG/13616.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 3 4K
+http://foxbleu-cdn.com//live/e8:aa:cb:c4:bf:92/aMzpeeG/89342.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 4 HD
-http://xlion.net:8080/live/747645/lion123123/325796.ts
+http://foxbleu-cdn.com//live/e8:aa:cb:c4:bf:92/aMzpeeG/13617.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 5 HD
-http://xlion.net:8080/live/747645/lion123123/325797.ts
+http://foxbleu-cdn.com//live/e8:aa:cb:c4:bf:92/aMzpeeG/13618.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 6 HD
-http://xlion.net:8080/live/747645/lion123123/325798.ts
+http://foxbleu-cdn.com//live/e8:aa:cb:c4:bf:92/aMzpeeG/13619.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 7 HD
-http://xlion.net:8080/live/747645/lion123123/325799.ts
+http://foxbleu-cdn.com//live/e8:aa:cb:c4:bf:92/aMzpeeG/13642.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",BeIN Sports 8 HD
-http://eaiptv.net:8080/live/ntr67/01001652973/159113.ts
+http://foxbleu-cdn.com//live/e8:aa:cb:c4:bf:92/aMzpeeG/13643.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Movies",Cinemax HD
 http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
@@ -627,8 +636,35 @@ http://xlion.net:8080/live/747645/lion123123/429757.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Sports",Sports HD
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Peshmarga HD
+http://www.pandar.xyz:88/live/EsYFjARvbV1MaFR/kBEHvCKySFJIBQb/189954.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kids",Halhalok HD
+http://www.pandar.xyz:88/live/EsYFjARvbV1MaFR/kBEHvCKySFJIBQb/189959.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Newline 1 HD
+http://www.pandar.xyz:88/live/EsYFjARvbV1MaFR/kBEHvCKySFJIBQb/190038.ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="News",K24 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Nweline 2$8 HD
+http://www.pandar.xyz:88/live/EsYFjARvbV1MaFR/kBEHvCKySFJIBQb/190039.ts
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Peshmarga HD
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Peshmarga HD
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Peshmarga HD
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Peshmarga HD
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/refs/heads/main/Azadiptv.jpg" group-title="Kurdish",Peshmarga HD
+
+
 
 
